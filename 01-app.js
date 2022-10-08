@@ -10,4 +10,8 @@ setTimeout(() => {
         },
     };
     console.log(data.getStatus());
+    /* 
+    en esta parte me equivoque por respondi que devolvia '😍',
+    y lo que devuelve '🥑',
+    */
 }, 0);
